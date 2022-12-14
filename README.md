@@ -14,10 +14,11 @@ You need to set up glut to run the codes
 
 
 # Running the sample project:
-1. Open Codeblocks -> New Project -> Browse location to C:\Program Files
-(x86)\CodeBlocks\MinGW (if needed) -> Browse glut location to C:\Program
-Files (x86)\CodeBlocks\MinGW (if needed) -> include <windows.h>
-header file in the main.cpp -> Build and Run
+- Open Codeblocks -> New Project
+- Browse location to C:\Program Files(x86)\CodeBlocks\MinGW (if needed)
+- Browse glut location to C:\Program Files (x86)\CodeBlocks\MinGW (if needed) 
+- ##### include <windows.h> header file in the main.cpp (this should be included at the top of all the #include directives) 
+- Build and Run
 
 If you see a lot of cool rotating objects, you ready to go.
 
