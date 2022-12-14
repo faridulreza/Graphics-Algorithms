@@ -14,7 +14,7 @@ You need to set up glut to run the codes
 
 
 # Running the sample project:
-- Open Codeblocks -> New Project
+- Open Codeblocks -> New Project -> GLUT project
 - Browse location to C:\Program Files(x86)\CodeBlocks\MinGW (if needed)
 - Browse glut location to C:\Program Files (x86)\CodeBlocks\MinGW (if needed) 
 - ##### include <windows.h> header file in the main.cpp (this should be included at the top of all the #include directives) 
